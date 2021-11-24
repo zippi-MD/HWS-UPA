@@ -27,6 +27,7 @@ extension Item {
         let item = Item(context: viewContext)
         item.title = "Example Title"
         item.detail = "This is an example item"
+        item.priority = Int16(2)
         item.creationDate = Date()
         
         return item
