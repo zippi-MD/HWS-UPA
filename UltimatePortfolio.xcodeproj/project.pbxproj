@@ -22,6 +22,7 @@
 		7D64B3AB274C76DE00F0978E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D64B3AA274C76DE00F0978E /* Preview Assets.xcassets */; };
 		7D64B3B3274C7A7600F0978E /* Main.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7D64B3B1274C7A7600F0978E /* Main.xcdatamodeld */; };
 		7D64B3B5274C7D5200F0978E /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D64B3B4274C7D5200F0978E /* DataController.swift */; };
+		7D83B79427A37C3500E3A640 /* EditProjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D83B79327A37C3500E3A640 /* EditProjectView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		7D64B3AA274C76DE00F0978E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		7D64B3B2274C7A7600F0978E /* Main.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Main.xcdatamodel; sourceTree = "<group>"; };
 		7D64B3B4274C7D5200F0978E /* DataController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
+		7D83B79327A37C3500E3A640 /* EditProjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProjectView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				7D64B3A5274C76DD00F0978E /* ContentView.swift */,
 				7D477569274DC776002B5A7B /* EditItemView.swift */,
 				7D02C297274F4B4000FA1351 /* Binding-OnChange.swift */,
+				7D83B79327A37C3500E3A640 /* EditProjectView.swift */,
 				7D47756B274DCD00002B5A7B /* ItemRowView.swift */,
 				7D64B3A7274C76DE00F0978E /* Assets.xcassets */,
 				7D64B3B1274C7A7600F0978E /* Main.xcdatamodeld */,
@@ -175,6 +178,7 @@
 				7D02C29A274F502900FA1351 /* ProjectHeaderView.swift in Sources */,
 				7D64B3B3274C7A7600F0978E /* Main.xcdatamodeld in Sources */,
 				7D477568274DBB68002B5A7B /* Project-CoreDataHelpers.swift in Sources */,
+				7D83B79427A37C3500E3A640 /* EditProjectView.swift in Sources */,
 				7D64B3B5274C7D5200F0978E /* DataController.swift in Sources */,
 				7D47756C274DCD00002B5A7B /* ItemRowView.swift in Sources */,
 				7D64B3A6274C76DD00F0978E /* ContentView.swift in Sources */,
